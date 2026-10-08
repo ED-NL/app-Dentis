@@ -4,6 +4,12 @@ Aplicación móvil y web para gestionar una consulta odontológica, desarrollada
 con Expo (React Native) y TypeScript. Incluye autenticación local, perfil de
 paciente, odontograma y una agenda de turnos con calendario y filtros por estado.
 
+## Integrantes
+- Edgar Narvaez
+- Rodrigo Good
+- Lily Narvaez
+
+
 ## Tecnologías
 
 - [Expo](https://expo.dev) (SDK 57) + Expo Router (navegación por archivos)
