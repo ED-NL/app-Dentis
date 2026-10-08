@@ -8,6 +8,7 @@ paciente, odontograma y una agenda de turnos con calendario y filtros por estado
 - Edgar Narvaez
 - Rodrigo Good
 - Lily Narvaez
+- Jesus Incarbone
 
 
 ## Tecnologías
