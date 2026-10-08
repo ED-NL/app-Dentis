@@ -5,9 +5,9 @@ con Expo (React Native) y TypeScript. Incluye autenticación local, perfil de
 paciente, odontograma y una agenda de turnos con calendario y filtros por estado.
 
 ## Integrantes
-- Edgar Narvaez
+- Edgar Narvaez Lavalle
 - Rodrigo Good
-- Lily Narvaez
+- Lily Narvaez Lavalle
 - Jesus Incarbone
 
 
