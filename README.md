@@ -1,9 +1,9 @@
 
-# Dentis (Expo)
-
 <div align="center">
   <img src="assets/images/dental-logo.png" alt="Logo de Dentis" width="220" />
 </div>
+
+# Dentis (Expo)
 
 Aplicación móvil y web para gestionar una consulta odontológica, desarrollada
 con Expo (React Native) y TypeScript. Incluye autenticación local, perfil de
